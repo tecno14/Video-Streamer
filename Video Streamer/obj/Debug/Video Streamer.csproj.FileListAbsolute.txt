@@ -1,0 +1,30 @@
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\Video Streamer.exe.config
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\Video Streamer.exe
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\Video Streamer.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\AForge.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\AForge.Video.DirectShow.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\AForge.Video.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\AForge.Video.FFMPEG.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\MaterialDesignColors.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\MetroFramework.Design.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\MetroFramework.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\MetroFramework.Fonts.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\NAudio.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\AForge.xml
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\AForge.Video.xml
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\AForge.Video.DirectShow.xml
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\AForge.Video.FFMPEG.xml
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\MaterialDesignColors.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\NAudio.xml
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video_Streamer.Frms.frmConnect.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video_Streamer.frmMain.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video_Streamer.Frms.frmSetting.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video_Streamer.Properties.Resources.resources
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video Streamer.csproj.GenerateResource.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video Streamer.csproj.CoreCompileInputs.cache
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video Streamer.csproj.CopyComplete
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video Streamer.exe
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video Streamer.pdb
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\NReco.VideoConverter.dll
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\bin\Debug\NReco.VideoConverter.xml
+D:\Study\AIU\_AIU Help Out\MM\عملي2019-2\3- فيديو\MML Video Project\Video Streamer\Video Streamer\obj\Debug\Video Streamer.csprojAssemblyReference.cache
