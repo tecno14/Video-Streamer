@@ -8,4 +8,4 @@ TCP only
 
 <br>
 
-![alt text](https://github.com/tecno14/Video-Streamer/blob/master/photo.jpg?raw=true)
+![Video-Streamer](https://github.com/tecno14/Video-Streamer/blob/master/photo.jpg?raw=true)
